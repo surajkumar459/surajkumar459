@@ -148,17 +148,6 @@ I enjoy building scalable web applications, REST APIs, backend services, and res
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=surajkumar459&theme=tokyo-night&hide_border=true"
-    alt="Suraj Kumar's GitHub Contribution Graph"
-  />
-</p>
-
----
-
 # 🚀 Featured Project
 
 ## 🔔 PushRocket
