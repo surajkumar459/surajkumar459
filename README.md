@@ -2,7 +2,7 @@
 
 <h3 align="center">
   Software Engineer | Java | DSA | PHP Laravel | React.js | Node.js | REST APIs | MySQL
-</h3>
+</h3> 
 
 <p align="center">
  <a href="https://github.com/surajkumar459">
@@ -273,4 +273,4 @@ Backend Engineering
 <p align="center">
   <b>💡 Building. Learning. Solving. Growing. 🚀</b>
 </p>
-
+---
