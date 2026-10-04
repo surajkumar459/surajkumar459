@@ -274,8 +274,3 @@ Backend Engineering
   <b>💡 Building. Learning. Solving. Growing. 🚀</b>
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino"/>
-</p>
