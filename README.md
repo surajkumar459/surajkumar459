@@ -199,38 +199,6 @@ open_to     : Collaboration & Learning 🚀
 | 🌐 **Multi-website Communication** | Manage multiple sites from one platform |
 | 📊 **Campaign & Delivery Tracking** | Monitor performance and delivery status |
 
-### ⚙️ Architecture
-
-```text
-                    ┌─────────────────────┐
-                    │     Website Users   │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      PushRocket     │
-                    │      Laravel API    │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────┴──────────┐
-                    │                     │
-                    ▼                     ▼
-             ┌─────────────┐       ┌─────────────┐
-             │    MySQL    │       │    Queue    │
-             │   Database  │       │   Workers   │
-             └─────────────┘       └──────┬──────┘
-                                          │
-                                          ▼
-                              ┌─────────────────────┐
-                              │ Firebase / WebPush  │
-                              └──────────┬──────────┘
-                                         │
-                                         ▼
-                              ┌─────────────────────┐
-                              │      End Users      │
-                              └─────────────────────┘
-```
-
 ---
 
 ## 🎓 Education
