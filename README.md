@@ -42,16 +42,6 @@
   I enjoy building <b>scalable web applications, REST APIs, backend services</b> and <b>responsive user interfaces</b>.
 </p>
 
-```yaml
-name        : Suraj Kumar
-role        : PHP Developer @ Ta Rule Technology
-location    : Noida, India
-education   : MCA (Dehradun)
-core_stack  : [PHP, Laravel, React.js, Node.js, Java, MySQL]
-focus       : [REST APIs, Queues, DB Optimization, Deployment]
-learning    : [Java, DSA, API Architecture, Scalable Systems]
-open_to     : Collaboration & Learning 🚀
-```
 
 | | |
 |:--|:--|
