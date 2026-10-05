@@ -38,7 +38,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  Software Engineer from <b>Nalanda, Bihar</b>, currently pursuing <b>MCA</b> in Dehradun.<br/>
+  Software Engineer from <b>Nalanda, Bihar</b>, graduated with <b>MCA</b> in Dehradun.<br/>
   I enjoy building <b>scalable web applications, REST APIs, backend services</b> and <b>responsive user interfaces</b>.
 </p>
 
