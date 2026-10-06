@@ -1,5 +1,5 @@
 <!-- ========================= HEADER ========================= -->
-<h1 align="center">Suraj Kumar</h1>
+<h1 align="center">SURAJ KUMAR</h1>
 
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
